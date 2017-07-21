@@ -1,0 +1,11 @@
+Database desgin 
+ 
+remove username from AutoReceiver 
+add latitude and longitude in place of location 
+ 
+class diagram is good 
+kaha se copy paste kiya? 
+:D 
+ 
+use case ar sequence ka diagram bhejo 
+kyun ki ye open nhi ho rha mere main 
