@@ -1,0 +1,351 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #333333;
+	background-color: #f3f3f3;
+	background-image: url(../images/toprept.jpg);
+	background-repeat: repeat-x;
+	background-position: left top;
+	margin: 0px;
+}
+h1, h2, h3, h4, h5, h6, p, ul, ol, li, form, input, textarea {
+	padding: 0px;
+	margin: 0px;
+}
+.leftuser {
+	width: 600px;
+	float: right;
+         margin-top: 100px;
+        margin-right: 40%;
+}
+.page-out {
+	background-image: url(../images/bottomrept.jpg);
+	background-repeat: repeat-x;
+	background-position: left bottom;
+	width: 100%;
+	float: left;
+}
+.main {
+	width: 990px;
+	margin: 0px auto;
+}
+.page, .header {
+	width: 990px;
+	float: left;
+}
+
+.topmenu1 {
+	width: 1000px;
+	height: 75px;
+	float: left;
+}
+.topmenu1 ul {
+	height: 35px;
+	margin-top: 20px;
+	list-style-type: none;
+}
+
+.topmenu1 ul li {
+	background-color: #f3f3f3;
+	text-align: center;
+	width: 110px;
+	height: 35px;
+	float: left;
+	margin-right: 1px;
+}
+.topmenu1 ul li a {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	line-height: 35px;
+	color: #000000;
+	text-decoration: none;
+}
+.topmenu1 ul li a:hover {
+	color: #2307ef;
+}
+.topmenu2 {
+	width: 990px;
+	height: 75px;
+	float: left;
+}
+.topmenu2 ul {
+	height: 35px;
+	margin-top: 20px;
+	list-style-type: none;
+}
+
+.topmenu2 ul li {
+	background-color: #f3f3f3;
+	text-align: center;
+	width: 120px;
+	height: 35px;
+	float: left;
+	margin-right: 1px;
+}
+.topmenu2 ul li a {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	line-height: 35px;
+	color: #000000;
+	text-decoration: none;
+}
+.topmenu2 ul li a:hover {
+	color: #2307ef;
+}
+.topmenu {
+	width: 990px;
+	height: 75px;
+	float: left;
+}
+.topmenu ul {
+	height: 35px;
+	margin-top: 20px;
+	list-style-type: none;
+}
+
+.topmenu ul li {
+	background-color: #f3f3f3;
+	text-align: center;
+	width: 81px;
+	height: 35px;
+	float: left;
+	margin-right: 1px;
+}
+.topmenu ul li a {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	line-height: 35px;
+	color: #000000;
+	text-decoration: none;
+}
+.topmenu ul li a:hover {
+	color: #2307ef;
+}
+.header-img {
+	width: 990px;
+	float: left;
+	padding: 20px 0px;
+}
+.content {
+	background-color: #FFFFFF;
+	width: 978px;
+        height: 600px;
+	float: left;
+	margin-left: 6px;
+	margin-bottom: 14px;
+}
+.content1 {
+	background-color: #FFFFFF;
+	width: 978px;
+      
+	float: left;
+	margin-left: 6px;
+	margin-bottom: 14px;
+}
+.content-in {
+	width: 820px;
+	float: left;
+	padding: 41px 122px 0px 36px;
+}
+.left {
+	width: 620px;
+	float: left;
+}
+.center {
+	width: 300px;
+        margin-left: 50%;
+	
+}
+.center1 {
+	width:90%;
+        margin: 5%;
+	
+}
+.center_view_user {
+	width: 600px;
+        margin-left: 40%;
+
+}
+.center_view_comp {
+	width: 700px;
+        margin-left: 20%;
+
+}
+.leftSignup {
+	width: 400px;
+	float: left;
+}
+.left p {
+	line-height: 150%;
+}
+.title {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 30px;
+	font-weight: normal;
+	line-height: 100%;
+	color: #2307ef;
+	margin-bottom: 20px;
+}
+.titleLogin {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	font-weight: normal;
+	line-height: 100%;
+	color: #2307ef;
+	margin-bottom: 20px;
+}
+.copyright {
+	border: 0px;
+	height: 1px;
+	width: 1px;
+}
+.right {
+	width: 150px;
+	float: right;
+}
+.btnLogin{
+
+    display:inline-block;
+    overflow:visible;
+    font-size:13pt;
+    font-weight:normal;
+    line-height:10px;
+    color:#333;
+
+    text-shadow:0 1px 1px rgba(255,255,255,.5);
+    background-color:#F8CF50;
+    border:1px solid #ccc;
+    cursor:pointer;
+    -webkit-border-radius:4px;
+    -moz-border-radius:4px;
+    border-radius:6px;
+    -webkit-box-shadow:0 1px 0 rgba(255,255,255,.5);
+    -moz-box-shadow:0 1px 0 rgba(255,255,255,.5);
+    box-shadow:0 1px 0 rgba(255,255,255,.5);
+    text-align: center;
+    vertical-align:baseline;
+    visibility: visible;
+    float:left;
+    width: 30%;
+    margin-top: 1%;
+    padding-top: 5px;
+    padding-right: 1;
+    padding-bottom: 5px;
+    padding-left: 1px;
+    height: 28px;
+
+}
+.btnLogin:hover{
+    background-color:#9F3;
+}
+
+.right h2 {
+	font-size: 16px;
+	line-height: 100%;
+	text-transform: uppercase;
+	color: #633069;
+	margin-bottom: 20px;
+}
+.right ul {
+	margin-bottom: 50px;
+	list-style-type: none;
+}
+.right ul li {
+	margin-bottom: 10px;
+}
+.right ul li a {
+	color: #000066;
+	text-decoration: underline;
+}
+.right ul li a:hover {
+	text-decoration: none;
+}
+.footer {
+	font-size: 12px;
+	line-height: 88px;
+	color: #FFFFFF;
+	text-align: center;
+	width: 990px;
+	height: 88px;
+	float: left;
+}
+.footer-link {
+	color:#ffffff; 
+	text-decoration:none; 
+}
+.txtLogin {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: normal;
+    background-color: #FFF;
+    word-spacing: normal;
+    width: 95%;
+    outline-color: #4AA5F0;
+    outline-width: 5px;
+    overflow:visible;
+    position: relative;
+    visibility: visible;
+    z-index: auto;
+    padding: 6px;
+    border-radius:8px;
+    border:1px solid #ccc;
+}
+.txtAddress {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: normal;
+    background-color: #FFF;
+    word-spacing: normal;
+    width: 95%;
+    height:50px;
+    outline-color: #4AA5F0;
+    outline-width: 5px;
+    overflow:visible;
+    position: relative;
+    visibility: visible;
+    z-index: auto;
+    padding: 6px;
+    border-radius:8px;
+    border:1px solid #ccc;
+}
+.txtPass {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: normal;
+    background-color: #FFF;
+    word-spacing: normal;
+    width: 95%;
+    outline-color: #4AA5F0;
+    outline-width: 5px;
+    overflow:visible;
+    position: relative;
+    visibility: visible;
+    z-index: auto;
+    padding: 6px;
+    border-radius:8px;
+    border:1px solid #ccc;
+}
+
+//for image rotation
+.morph {
+  -webkit-transition: all 0.5s ease;
+     -moz-transition: all 0.5s ease;
+       -o-transition: all 0.5s ease;
+      -ms-transition: all 0.5s ease;
+          transition: all 0.5s ease;
+}
+ 
+.morph:hover {
+  border-radius: 50%;
+  -webkit-transform: rotate(360deg);
+     -moz-transform: rotate(360deg);
+       -o-transform: rotate(360deg);
+      -ms-transform: rotate(360deg);
+          transform: rotate(360deg);
+}
